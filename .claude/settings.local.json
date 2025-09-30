@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Read(//Users/elvinyekayev/Downloads/**)"
+      "Read(//Users/elvinyekayev/Downloads/**)",
+      "WebFetch(domain:applova.io)",
+      "WebFetch(domain:menu.instalacarte.com)"
     ],
     "deny": [],
     "ask": []
