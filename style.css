@@ -605,8 +605,8 @@ body::before {
     }
 
     .category-link {
-        font-size: 0.85rem;
-        padding: 0.8rem 1rem;
+        font-size: 0.75rem;
+        padding: 0.8rem 0.2rem;
     }
 
     .card-content h3 {
